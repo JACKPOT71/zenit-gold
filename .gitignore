@@ -1,0 +1,9 @@
+# Windows / macOS Systemdateien
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Local test builds
+ZenitGold_Test.theme.css
+*.bak
+_preview/
