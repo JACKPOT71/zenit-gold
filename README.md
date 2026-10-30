@@ -6,13 +6,14 @@
 
 **A black-and-gold Discord theme with a full-bleed banner, a mascot watermark and translucent chat panels.**
 
-[![Version](https://img.shields.io/badge/version-2.2.1-e6c15e?style=flat-square)](https://github.com/JACKPOT71/zenit-gold)
+[![Version](https://img.shields.io/badge/version-2.2.1-e6c15e?style=flat-square)](https://github.com/JACKPOT71/zenit-gold/releases/latest)
+[![Download](https://img.shields.io/badge/download-latest-e6c15e?style=flat-square&logo=github)](https://github.com/JACKPOT71/zenit-gold/releases/latest)
 [![License](https://img.shields.io/badge/license-MIT-e6c15e?style=flat-square)](LICENSE)
 [![BetterDiscord](https://img.shields.io/badge/BetterDiscord-ready-e6c15e?style=flat-square)](#betterdiscord)
 [![Vencord](https://img.shields.io/badge/Vencord-ready-e6c15e?style=flat-square)](#vencord)
 [![Issues](https://img.shields.io/github/issues/JACKPOT71/zenit-gold?style=flat-square&color=e6c15e)](https://github.com/JACKPOT71/zenit-gold/issues)
 
-[Install](#install) · [Preview](#preview) · [Customize](#customize) · [Troubleshooting](#troubleshooting)
+[Download](https://github.com/JACKPOT71/zenit-gold/releases/latest) · [Install](#install) · [Preview](#preview) · [Customize](#customize) · [Troubleshooting](#troubleshooting)
 
 </div>
 
@@ -36,11 +37,17 @@ Zenit Gold is a dark Discord theme built around one full-bleed artwork. Instead 
 - Montserrat interface font
 - One self-contained `.theme.css` file — all artwork is embedded, no image folder, no build step
 
+## Download
+
+[**Download the latest release**](https://github.com/JACKPOT71/zenit-gold/releases/latest)
+
+Direct file: [`ZenitGold.theme.css`](https://github.com/JACKPOT71/zenit-gold/releases/latest/download/ZenitGold.theme.css)
+
 ## Install
 
 ### BetterDiscord
 
-1. Download [`ZenitGold.theme.css`](https://github.com/JACKPOT71/zenit-gold/raw/main/ZenitGold.theme.css).
+1. Download [`ZenitGold.theme.css`](https://github.com/JACKPOT71/zenit-gold/releases/latest/download/ZenitGold.theme.css).
 2. In Discord: **Settings → BetterDiscord → Themes → Open Themes Folder**.
 3. Put `ZenitGold.theme.css` into `%AppData%\BetterDiscord\themes` on Windows  
    (`~/Library/Application Support/BetterDiscord/themes` on macOS).
@@ -51,7 +58,7 @@ Zenit Gold is a dark Discord theme built around one full-bleed artwork. Instead 
 
 #### Local file
 
-1. Download [`ZenitGold.theme.css`](https://github.com/JACKPOT71/zenit-gold/raw/main/ZenitGold.theme.css).
+1. Download [`ZenitGold.theme.css`](https://github.com/JACKPOT71/zenit-gold/releases/latest/download/ZenitGold.theme.css).
 2. In Discord: **Settings → Vencord → Themes → Open Themes Folder**.
 3. Put the file into `%AppData%\Vencord\themes` on Windows  
    (`~/.config/Vencord/themes` on Linux).
@@ -145,7 +152,7 @@ Copyright © 2026 ZENIT / Jackpot.
 
 ## Deutsch
 
-Kurzfassung: Datei herunterladen, in den Themes-Ordner von **BetterDiscord** oder **Vencord** legen, Discord neu starten und **„Zenit Gold — Blackout“** aktivieren. Für Vencord kann alternativ die Online-URL oben eingetragen werden.
+Kurzfassung: [neueste Version herunterladen](https://github.com/JACKPOT71/zenit-gold/releases/latest), Datei in den Themes-Ordner von **BetterDiscord** oder **Vencord** legen, Discord neu starten und **„Zenit Gold — Blackout“** aktivieren. Für Vencord kann alternativ die Online-URL oben eingetragen werden.
 
 ---
 
